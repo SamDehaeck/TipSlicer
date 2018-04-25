@@ -11,10 +11,9 @@ Another important capability of the program is that objects can be defined mathe
 
 So, if you find this software useful, please cite the following paper:
 
-S. Dehaeck, B. Scheid & P. Lambert
-Adaptive stitching for meso-scale printing with two-photon lithography
-Additive Manufacturing,
-Volume 21, May 2018, Pages 589-597
+>	S. Dehaeck, B. Scheid & P. Lambert,
+>	Adaptive stitching for meso-scale printing with two-photon lithography,
+>	Additive Manufacturing, Volume 21, May 2018, Pages 589-597
 
 Still on the to-do list:
 
